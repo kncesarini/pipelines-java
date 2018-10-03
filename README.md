@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/goepcloud/DevOps%20workflow/_apis/build/status/Test%20(1))](https://dev.azure.com/goepcloud/DevOps%20workflow/_build/latest?definitionId=72)
 
 # Contributing
 
